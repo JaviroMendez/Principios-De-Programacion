@@ -1,0 +1,84 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+"Dame Tu Fecha de Nacimiento: "
+5
+1
+14
+DiaN,MesN,AñoN
+4
+1
+24
+"Dame la Fecha Actual: "
+5
+1
+14
+DiaA,MesA,AñoA
+7
+0
+1
+9
+MesA>MesN
+7
+0
+1
+9
+MesA=MesN
+6
+1
+4
+Edad
+13
+(AñoA-AñoN)-1
+4
+1
+20
+"Tu edad es: ", Edad
+13
+7
+0
+1
+10
+DiaA>=DiaN
+6
+1
+4
+Edad
+13
+(AñoA-AñoN)-1
+4
+1
+20
+"Tu edad es: ", Edad
+13
+6
+1
+4
+Edad
+9
+AñoA-AñoN
+4
+1
+20
+"Tu edad es: ", Edad
+13
+13
+13
+6
+1
+4
+Edad
+9
+AñoA-AñoN
+4
+1
+20
+"Tu edad es: ", Edad
+13
+1

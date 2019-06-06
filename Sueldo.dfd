@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+27
+"Dame el numero de horas: "
+5
+1
+5
+horas
+7
+0
+1
+8
+horas>40
+4
+1
+26
+"El sueldo es: ", horas*80
+13
+6
+2
+5
+extra
+8
+horas-40
+5
+total
+19
+(extra*120)+(40*80)
+4
+1
+31
+"El numero de horas es: ",total
+13
+1

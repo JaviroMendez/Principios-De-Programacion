@@ -1,0 +1,19 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+18
+"Dame 5 numeros: "
+5
+1
+24
+Num1,Num2,Num3,Num4,Num5
+4
+1
+49
+"El promedio es: " , (Num1+Num2+Num3+Num4+Num5)/5
+1

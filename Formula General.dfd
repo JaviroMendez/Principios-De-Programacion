@@ -1,0 +1,19 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+29
+"Dame los valores de a b c: "
+5
+1
+5
+a,b,c
+4
+1
+76
+"X1= ",  (-b+sqrt(b*b-4*a*c))/(2*a), "    X2= ",  (-b-sqrt(b*b-4*a*c))/(2*a)
+1

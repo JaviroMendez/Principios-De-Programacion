@@ -1,0 +1,128 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+8
+subtotal
+4
+1000
+8
+1
+1
+i
+1
+1
+1
+1
+1
+1
+1
+1
+0
+4
+1
+32
+"SELECIONA UNA DE LAS OPCIONES:"
+4
+1
+56
+"1.-Abonar", " 2.-Consultar", " 3.-Retirar", " 4.-Salir"
+5
+1
+6
+opcion
+7
+0
+1
+11
+opcion != 4
+6
+1
+1
+i
+3
+i+1
+13
+7
+0
+1
+10
+opcion = 1
+7
+0
+1
+10
+opcion = 2
+7
+0
+1
+10
+opcion = 3
+4
+1
+44
+"No es una opcion del menu elije nuevamente"
+13
+4
+1
+25
+"Cuanto quieres Retirar:"
+5
+1
+7
+retirar
+7
+0
+1
+18
+retirar > subtotal
+6
+1
+8
+subtotal
+16
+subtotal-retirar
+4
+1
+41
+"Se han retirado exitosamente: ", retirar
+13
+4
+1
+50
+"Tu saldo no es suficiente solo tienes:", subtotal
+13
+13
+13
+4
+1
+30
+"Tu saldo es de: ",  subtotal 
+13
+13
+4
+1
+23
+"Cuanto deseas abonar:"
+5
+1
+6
+abonar
+6
+1
+8
+subtotal
+15
+subtotal+abonar
+4
+1
+38
+"Se ha abonado exitosamente: ", abonar
+13
+13
+10
+1

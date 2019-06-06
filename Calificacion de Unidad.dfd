@@ -1,0 +1,19 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+66
+"Dame tu calificacion del examen de los ejercicios y las tareas: "
+5
+1
+26
+examen, ejercicios, tareas
+4
+1
+103
+"Tu calificacion final de la unidad I es: " , ((40*examen)/100)+((40*ejercicios)/100)+((20*tareas)/100)
+1

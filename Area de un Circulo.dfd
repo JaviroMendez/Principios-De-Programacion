@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+25
+"Dame el valor del radio"
+5
+1
+5
+radio
+6
+1
+4
+area
+14
+3.1416*radio^2
+4
+1
+32
+"El area del circulo es: ", area
+1

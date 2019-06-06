@@ -1,0 +1,76 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+18
+"Dame 5 numeros: "
+5
+1
+14
+n1,n2,n3,n4,n5
+6
+1
+4
+prom
+18
+(n1+n2+n3+n4+n5)/5
+7
+0
+1
+7
+prom>n1
+13
+4
+1
+53
+"Los numeros menores al promedio ", prom, " son: ",n1
+13
+7
+0
+1
+7
+prom>n2
+13
+4
+1
+54
+"Los numeros menores al promedio ", prom, " son: ", n2
+13
+7
+0
+1
+7
+prom>n3
+13
+4
+1
+54
+"Los numeros menores al promedio ", prom, " son: ", n3
+13
+7
+0
+1
+7
+prom>n4
+13
+4
+1
+54
+"Los numeros menores al promedio ", prom, " son: ", n4
+13
+7
+0
+1
+7
+prom>n5
+13
+4
+1
+54
+"Los numeros menores al promedio ", prom, " son: ", n5
+13
+1
